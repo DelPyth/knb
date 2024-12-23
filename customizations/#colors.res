@@ -6,8 +6,8 @@
     // Colors for the HUD
     // ====================================================================
     "HP"                "255 255 255 255"       // White
-    "HP bonus 1"        "135 255 75 255"        // Medium blue
-    "HP bonus 2"        "85 255 0 255"         // Light blue
+    "HP bonus 1"        "99 199 77 255"         // Medium green
+    "HP bonus 2"        "62 137 72 255"         // Dark green
     "HP low 1"          "255 60 60 255"         // Red
     "HP low 2"          "200 30 30 255"         // Dark-ish red
     "AMMO"              "255 255 255 255"       // White
