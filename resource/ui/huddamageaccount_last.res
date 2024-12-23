@@ -1,0 +1,36 @@
+"Resource/UI/HudDamageAccount.res"
+{
+  "DamageAccountValue"
+  {
+    "ControlName"       "CExLabel"
+    "fieldName"         "DamageAccountValue"
+    "xpos"              "c-50"
+    "ypos"              "c100"
+    "zpos"              "5"
+    "wide"              "100"
+    "tall"              "28"
+    "visible"           "1"
+    "enabled"           "1"
+    "labelText"         "%metal%"
+    "textAlignment"     "center"
+    "fgcolor"           "White"
+    "font"              "surface14"
+  }
+  "DamageAccountValueShadow"
+  {
+    "ControlName"       "CExLabel"
+    "fieldName"         "DamageAccountValueShadow"
+    "xpos"              "-2"
+    "ypos"              "-2"
+    "zpos"              "1"
+    "wide"              "100"
+    "tall"              "28"
+    "visible"           "1"
+    "enabled"           "1"
+    "labelText"         "%metal%"
+    "textAlignment"     "center"
+    "fgcolor"           "0 0 0 100"
+    "font"              "surface14"
+    "pin_to_sibling"    "DamageAccountValue"
+  }
+}

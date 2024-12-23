@@ -1,0 +1,80 @@
+"Resource/UI/SpectatorTournamentGUIHealth.res"
+{
+	"PlayerStatusHealthImage"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"PlayerStatusHealthImage"
+		"xpos"			"40000"
+		"ypos"			"10"
+		"zpos"			"4"
+		"wide"			"13"
+		"tall"			"13"
+		"visible"		"1"
+		"enabled"		"1"
+		"scaleImage"	"1"	
+	}
+	"PlayerStatusHealthImageBG"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"PlayerStatusHealthImageBG"
+		"xpos"			"39000"
+		"ypos"			"9"
+		"zpos"			"3"
+		"wide"			"15"
+		"tall"			"15"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/health_bg"
+		"scaleImage"	"1"	
+	}	
+	"BuildingStatusHealthImageBG"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"BuildingStatusHealthImageBG"
+		"xpos"			"36000"
+		"ypos"			"5"
+		"zpos"			"2"
+		"wide"			"19"
+		"tall"			"19"
+		"visible"		"0"
+		"enabled"		"0"
+		"image"			"../hud/health_equip_bg"
+		"scaleImage"	"1"	
+	}	
+	"PlayerStatusHealthBonusImage"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"PlayerStatusHealthBonusImage"
+		"xpos"			"9999"
+	}
+	"PlayerStatusHealthValue"
+	{
+		"ControlName"	"Label"
+		"fieldName"		"PlayerStatusHealthValue"
+		"xpos"			"75"
+		"ypos"			"32"
+		"zpos"			"5"
+		"wide"			"50"
+		"tall"			"18"
+		"visible"		"0"
+		"enabled"		"0"
+		"textAlignment"	"center"
+	}
+	
+	"PlayerStatusHealthValueTargetID"
+	{	
+		"ControlName"		"CExLabel"
+		"fieldName"			"PlayerStatusHealthValueTargetID"
+		"xpos"				"-2"
+		"ypos"				"-4"
+		"zpos"				"6"
+		"wide"				"28"
+		"tall"				"26"
+		"visible"			"1"
+		"enabled"			"1"
+		"labeltext"			"%Health%"
+		"textAlignment"		"center"
+		"font"				"bold13"
+		"fgcolor"			"255 255 255 255"
+	}
+}

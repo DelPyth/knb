@@ -1,0 +1,16 @@
+# Ignore development files
+dev-stuff/
+
+# Ignore the sound directory as that's pointless to keep for a git repo
+sound/
+
+# Ignore all other mac/windows/linux hidden files
+.*.swp
+.*.swo
+.*.swn
+desktop.ini
+.DS_Store
+Thumbs.db
+
+# Ignore all other files that are not needed
+*.py
