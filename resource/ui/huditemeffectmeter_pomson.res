@@ -2,8 +2,8 @@
 
 "Resource/UI/HudItemEffectMeter_Pomson.res"
 {
-	"HudItemEffectMeter"
+	"ItemEffectMeter"
 	{
-		"ypos"										"c117"
+		"ypos"										"0"
 	}
 }

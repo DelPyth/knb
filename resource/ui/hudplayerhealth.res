@@ -1,3 +1,5 @@
+#base "../../customizations/#spacer.res"
+
 #base "../../customizations/#enabled/team_indicator.res"
 
 "Resource/UI/HudPlayerHealth.res"
@@ -19,25 +21,6 @@
 	}
 
 	//==================================================================================================================================================
-	// HEALTH ANCHOR
-	// This element can be used to move all the health elements at the same time
-	//==================================================================================================================================================
-
-	"HealthAnchor"
-	{
-		"ControlName"								"EditablePanel"
-		"fieldName"									"HealthAnchor"
-		"xpos"										"c-100" // c-136
-		"ypos"										"c43"
-		"zpos"										"0"
-		"wide"										"2"
-		"tall"										"80"
-		"visible"									"0"
-		"enabled"									"1"
-		"alpha"										"0"
-	}
-
-	//==================================================================================================================================================
 	// BUFF - HURT CROSS
 	//==================================================================================================================================================
 
@@ -56,11 +39,11 @@
 	{
 		"ControlName"	           				 	"CExLabel"
 		"fieldName"	  	         				 	"PlayerStatusHealthValue"
-		"xpos"		    	         				"4"		// 5
+		"xpos"		    	         				"0"		// 5
 		"ypos"		    	         				"0"
 		"zpos"		    	         				"5"
-		"wide"		    	         				"75"
-		"tall"		    	         				"81"
+		"wide"		    	         				"70"
+		"tall"		    	         				"20"
 		"visible"		  	         				"1"
 		"enabled"	  		         				"1"
 		"labelText" 		         				"%Health%"
@@ -69,18 +52,16 @@
 		"fgcolor"	    	         				"255 255 255 255"
 
 		"pin_to_sibling"							"HealthAnchor"
-		"pin_corner_to_sibling"						"PIN_CENTER_TOP"
-		"pin_to_sibling_corner"						"PIN_CENTER_TOP"
 	}
 	"PlayerStatusHealthValueShadow"
 	{
 		"ControlName"	           				 	"CExLabel"
 		"fieldName"	  	         				 	"PlayerStatusHealthValueShadow"
 		"xpos"	    		         				"-1"
-		"ypos"	    		         				"0"
+		"ypos"	    		         				"-1"
 		"zpos"	    		         				"5"
-		"wide"		    	         				"75"
-		"tall"		    	         				"83"
+		"wide"		    	         				"70"
+		"tall"		    	         				"20"
 		"visible"	    	         				"1"
 		"enabled"	    	         				"1"
 		"labelText"	  	         				 	"%Health%"

@@ -2,8 +2,8 @@
 
 "Resource/UI/HudItemEffectMeter_SniperFocus.res"
 {
-	"HudItemEffectMeter"
+	"ItemEffectMeter"
 	{
-		"ypos"										"c85"
+		"ypos"										"-5"
 	}
 }

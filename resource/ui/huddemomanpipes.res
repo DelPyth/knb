@@ -1,61 +1,20 @@
+#base "../../customizations/#spacer.res"
+
 "Resource/UI/HudDemomanPipes.res"
 {
-	"background"
-	{
-		"ControlName"	"CTFImagePanel"
-		"fieldName"		"background"
-		"xpos"			"22"
-		"ypos"			"12"
-		"zpos"			"0"
-		"wide"			"0"
-		"tall"			"28"
-		"alpha"			"175"
-		"visible"		"1"
-		"enabled"		"1"
-
-	}
-
-	"ChargeLabel"
-	{
-		"ControlName"			"CExLabel"
-		"fieldName"				"ChargeLabel"
-		"xpos"					"0"
-		"ypos"					"0"
-		"zpos"					"2"
-		"wide"					"0"
-		"tall"					"15"
-		"autoResize"			"1"
-		"pinCorner"				"2"
-		"visible"				"1"
-		"enabled"				"1"
-		"tabPosition"			"0"
-		"labelText"				"#TF_Charge"
-		"textAlignment"			"center"
-		"dulltext"				"0"
-		"brighttext"			"0"
-		"font"					"TFFontSmall"
-	}
-
+	// This stubborn fucker doesn't want to pin to any of the anchors, so we'll just manually position it
 	"ChargeMeter"
 	{
 		"ControlName"			"ContinuousProgressBar"
 		"fieldName"				"ChargeMeter"
-		"font"					"Default"
-		"xpos"			"cs-0.5"
-		"ypos"			"80"
+		"xpos"			"c-60"
+		"ypos"			"c80"
+		"ypos_minmode"			"r90"
 		"zpos"			"2"
-		"wide"			"96"
+		"wide"			"120"
 		"tall"			"2"
-		"autoResize"	"0"
-		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"textAlignment"	"Left2"
-		"dulltext"		"0"
-		"brighttext"	"0"
-
-		"fgcolor_override"	"255 255 255 255"
-		"bgcolor_override"	"0 0 0 50"
 	}
 
 	"PipesPresentPanel"
@@ -63,7 +22,8 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"PipesPresentPanel"
 		"xpos"			"cs-0.5"
-		"ypos"			"58"
+		"ypos"			"c55"
+		"ypos_minmode"			"r115"
 		"zpos"			"1"
 		"wide"			"140"
 		"tall"			"80"

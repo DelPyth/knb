@@ -1,3 +1,5 @@
+#base "../../customizations/#spacer.res"
+
 "Resource/UI/HudItemEffectMeter.res"
 {
 	"HudItemEffectMeter"
@@ -5,10 +7,10 @@
 		"fieldName"									"HudItemEffectMeter"
 		"visible"									"1"
 		"enabled"									"1"
-		"xpos"										"cs-0.5"
-		"ypos"										"c80"
-		"wide"										"96"
-		"tall"										"10"
+		"xpos"										"0"
+		"ypos"										"0"
+		"wide"										"f0"
+		"tall"										"f0"
 		"MeterFG"									"255 255 255 255"
 		"MeterBG"									"0 0 0 255"
 	}
@@ -17,34 +19,31 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"ItemEffectMeterLabel"
-		"xpos"										"cs-0.5"
-		"ypos"										"rs1"
+		"xpos"										"0"
+		"ypos"										"0"
 		"zpos"										"2"
-		"wide"										"f0"
+		"wide"										"0"
 		"tall"										"0"
-		"visible"									"1"
-		"enabled"									"1"
-		"proportionaltoparent"						"1"
+		"visible"									"0"
+		"enabled"									"0"
 		"labelText"									"#TF_Ball"
-		"textAlignment"								"center"
-		"font"										"ScoreboardVerySmall"
-		"fgcolor"									"255 255 255 255"
 	}
 
 	"ItemEffectMeter"
 	{
 		"ControlName"								"ContinuousProgressBar"
 		"fieldName"									"ItemEffectMeter"
-		"xpos"										"cs-0.5"
-		"ypos"										"0"
+		"xpos"										"20"
+		"ypos"										"-10"
 		"zpos"										"2"
-		"wide"										"f0"
+		"wide"										"120"
 		"tall"										"2"
 		"visible"									"1"
 		"enabled"									"1"
-		"proportionaltoparent"						"1"
-		"fgcolor_override"	"255 255 255 255"
-		"bgcolor_override"	"0 0 0 50"
+
+		"pin_to_sibling"          "HealthAnchor"
+		"pin_corner_to_sibling"   "PIN_TOPLEFT"
+		"pin_to_sibling_corner"   "PIN_TOPRIGHT"
 	}
 
 

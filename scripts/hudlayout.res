@@ -17,24 +17,20 @@
     "ypos"                    "30"
     "wide"                    "628"
     "tall"                    "468"
-
     "MaxDeathNotices"         "10"
     "IconScale"               "0.35"
     "LineHeight"              "11"
     "LineSpacing"             "0"
     "CornerRadius"            "1"
     "RightJustify"            "1"	// If 1, draw notices from the right
-
     "TextFont"                "surface10"
     "TeamBlue"                "78 119 182 255"
     "TeamRed"                 "207 73 50 255"
-
     "IconColor"               "255 255 255 255"
     "LocalPlayerColor"        "HUDBlack"
     "BaseBackgroundColor"     "0 0 0 150"
     "LocalBackgroundColor"    "235 235 235 200"
   }
-
   "HudPlayerStatus"
   {
     "fieldName"     "HudPlayerStatus"
@@ -185,10 +181,11 @@
   "CHudAccountPanel"
   {
     "fieldName"               "CHudAccountPanel"
-    "xpos"                    "c-80"
-    "ypos"                    "220"
-    "wide"                    "160"
-    "tall"                    "180"
+    "xpos"                    "c-20"
+    "ypos"                    "c85"
+    "ypos_minmode"            "r80"
+    "wide"                    "40"
+    "tall"                    "100"
     "visible"                 "1"
     "enabled"                 "1"
     "PaintBackgroundType"     "2"
@@ -354,12 +351,12 @@
     "fieldName"         "HudDamageIndicator"
     "visible"           "1"
     "enabled"           "1"
-    "MinimumWidth"      "23"
-    "MaximumWidth"      "23"
-    "StartRadius"       "80"
-    "EndRadius"         "80"
-    "MinimumHeight"     "30"
-    "MaximumHeight"     "60"
+    "MinimumWidth"      "10"
+    "MaximumWidth"      "10"
+    "StartRadius"       "100"
+    "EndRadius"         "120"
+    "MinimumHeight"     "20"
+    "MaximumHeight"     "40"
     "MinimumTime"       "1"
   }
   "HudCommentary"
@@ -832,8 +829,8 @@
     "fieldName"     "HudDemomanPipes"
     "visible"       "1"
     "enabled"       "1"
-    "xpos"          "cs-0.5"
-    "ypos"          "c0"
+    "xpos"          "0"
+    "ypos"          "0"
     "wide"          "f0"
     "tall"          "f0"
   }
@@ -842,13 +839,11 @@
     "fieldName"     "HudDemomanCharge"
     "visible"       "1"
     "enabled"       "1"
-    "xpos"          "cs-0.5"
-    "ypos"          "r157"	// r133
+    "xpos"          "0"
+    "ypos"          "0"
     "zpos"          "2"
     "wide"          "f0"
-    "tall"          "80"
-    "MeterFG"       "White"
-    "MeterBG"       "Gray"
+    "tall"          "f0"
   }
   "HudTeamGoal"
   {

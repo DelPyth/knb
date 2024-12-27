@@ -9,7 +9,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "8"
         "outline"       "0"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -20,7 +20,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "8"
         "outline"       "1"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -31,7 +31,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "9"
         "outline"       "0"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -42,7 +42,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "9"
         "outline"       "1"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -53,7 +53,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "10"
         "outline"       "0"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -64,7 +64,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "10"
         "outline"       "1"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -75,7 +75,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "11"
         "outline"       "0"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -86,7 +86,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "11"
         "outline"       "1"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -97,7 +97,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "12"
         "outline"       "0"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -108,7 +108,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "12"
         "outline"       "1"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -119,7 +119,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "13"
         "outline"       "0"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -130,7 +130,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "13"
         "outline"       "1"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -141,7 +141,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "14"
         "outline"       "0"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -152,7 +152,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "14"
         "outline"       "1"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -163,7 +163,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "15"
         "outline"       "0"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -174,7 +174,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "15"
         "outline"       "1"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -185,7 +185,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "16"
         "outline"       "0"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -196,7 +196,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "16"
         "outline"       "1"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -207,7 +207,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "17"
         "outline"       "0"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -218,7 +218,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "17"
         "outline"       "1"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -229,7 +229,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "18"
         "outline"       "0"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -240,7 +240,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "18"
         "outline"       "1"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -251,7 +251,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "19"
         "outline"       "0"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -262,7 +262,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "19"
         "outline"       "1"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -273,7 +273,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "20"
         "outline"       "0"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -284,7 +284,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "20"
         "outline"       "1"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -295,7 +295,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "21"
         "outline"       "0"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -306,7 +306,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "21"
         "outline"       "1"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -317,7 +317,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "22"
         "outline"       "0"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -328,7 +328,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "22"
         "outline"       "1"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -339,7 +339,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "23"
         "outline"       "0"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -350,7 +350,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "23"
         "outline"       "1"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -361,7 +361,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "24"
         "outline"       "0"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -372,7 +372,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "24"
         "outline"       "1"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -383,7 +383,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "25"
         "outline"       "0"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -394,7 +394,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "25"
         "outline"       "1"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -405,7 +405,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "26"
         "outline"       "0"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -416,7 +416,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "26"
         "outline"       "1"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -427,7 +427,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "27"
         "outline"       "0"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -438,7 +438,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "27"
         "outline"       "1"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -449,7 +449,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "28"
         "outline"       "0"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -460,7 +460,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "28"
         "outline"       "1"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -471,7 +471,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "29"
         "outline"       "0"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -482,7 +482,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "29"
         "outline"       "1"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -493,7 +493,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "30"
         "outline"       "0"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -504,7 +504,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "30"
         "outline"       "1"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -515,7 +515,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "31"
         "outline"       "0"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -526,7 +526,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "31"
         "outline"       "1"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -537,7 +537,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "32"
         "outline"       "0"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -548,7 +548,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "32"
         "outline"       "1"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -559,7 +559,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "33"
         "outline"       "0"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -570,7 +570,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "33"
         "outline"       "1"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -581,7 +581,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "34"
         "outline"       "0"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -592,7 +592,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "34"
         "outline"       "1"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -603,7 +603,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "35"
         "outline"       "0"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -614,7 +614,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "35"
         "outline"       "1"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -625,7 +625,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "36"
         "outline"       "0"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -636,7 +636,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "36"
         "outline"       "1"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -647,7 +647,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "37"
         "outline"       "0"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -658,7 +658,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "37"
         "outline"       "1"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -669,7 +669,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "38"
         "outline"       "0"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -680,7 +680,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "38"
         "outline"       "1"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -691,7 +691,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "39"
         "outline"       "0"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -702,7 +702,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "39"
         "outline"       "1"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -713,7 +713,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "40"
         "outline"       "0"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -724,7 +724,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "40"
         "outline"       "1"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -735,7 +735,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "41"
         "outline"       "0"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -746,7 +746,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "41"
         "outline"       "1"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -757,7 +757,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "42"
         "outline"       "0"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -768,7 +768,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "42"
         "outline"       "1"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -779,7 +779,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "43"
         "outline"       "0"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -790,7 +790,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "43"
         "outline"       "1"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -801,7 +801,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "44"
         "outline"       "0"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -812,7 +812,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "44"
         "outline"       "1"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -823,7 +823,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "45"
         "outline"       "0"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -834,7 +834,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "45"
         "outline"       "1"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -845,7 +845,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "46"
         "outline"       "0"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -856,7 +856,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "46"
         "outline"       "1"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -867,7 +867,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "47"
         "outline"       "0"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -878,7 +878,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "47"
         "outline"       "1"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -889,7 +889,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "48"
         "outline"       "0"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -900,7 +900,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "48"
         "outline"       "1"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -911,7 +911,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "49"
         "outline"       "0"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -922,7 +922,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "49"
         "outline"       "1"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -933,7 +933,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "50"
         "outline"       "0"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -944,7 +944,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "50"
         "outline"       "1"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -955,7 +955,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "51"
         "outline"       "0"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -966,7 +966,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "51"
         "outline"       "1"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -977,7 +977,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "52"
         "outline"       "0"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -988,7 +988,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "52"
         "outline"       "1"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -999,7 +999,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "53"
         "outline"       "0"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -1010,7 +1010,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "53"
         "outline"       "1"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -1021,7 +1021,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "54"
         "outline"       "0"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -1032,7 +1032,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "54"
         "outline"       "1"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -1043,7 +1043,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "55"
         "outline"       "0"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -1054,7 +1054,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "55"
         "outline"       "1"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -1065,7 +1065,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "56"
         "outline"       "0"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -1076,7 +1076,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "56"
         "outline"       "1"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -1087,7 +1087,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "57"
         "outline"       "0"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -1098,7 +1098,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "57"
         "outline"       "1"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -1109,7 +1109,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "58"
         "outline"       "0"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -1120,7 +1120,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "58"
         "outline"       "1"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -1131,7 +1131,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "59"
         "outline"       "0"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -1142,7 +1142,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "59"
         "outline"       "1"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -1153,7 +1153,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "60"
         "outline"       "0"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -1164,7 +1164,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "60"
         "outline"       "1"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -1175,7 +1175,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "61"
         "outline"       "0"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -1186,7 +1186,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "61"
         "outline"       "1"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -1197,7 +1197,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "62"
         "outline"       "0"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -1208,7 +1208,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "62"
         "outline"       "1"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -1219,7 +1219,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "63"
         "outline"       "0"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -1230,7 +1230,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "63"
         "outline"       "1"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -1241,7 +1241,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "64"
         "outline"       "0"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
 
@@ -1252,7 +1252,7 @@ Scheme
         "name"          "TF2Crosshairs"
         "tall"          "64"
         "outline"       "1"
-        "antialiasing"  "1"
+        "antialias"     "1"
       }
     }
   }
@@ -1261,8 +1261,8 @@ Scheme
   {
     "14"
     {
-			"font"  "resource/fonts/TF2Crosshairs.ttf"
-			"name"  "TF2Crosshairs"
+      "font"  "resource/fonts/TF2Crosshairs.ttf"
+      "name"  "TF2Crosshairs"
     }
   }
 }

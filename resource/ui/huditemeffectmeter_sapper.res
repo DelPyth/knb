@@ -2,8 +2,8 @@
 
 "Resource/UI/HudItemEffectMeter_Sapper.res"
 {
-	"HudItemEffectMeter"
+	"ItemEffectMeter"
 	{
-		"ypos"										"c90"
+		"ypos"										"5"
 	}
 }

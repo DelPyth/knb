@@ -1,3 +1,5 @@
+#base "../../customizations/#enabled/last_damage.res"
+
 #base "huddamageaccount_last.res"
 
 "Resource/UI/HudDamageAccount.res"

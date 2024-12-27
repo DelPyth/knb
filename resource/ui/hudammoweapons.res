@@ -1,24 +1,7 @@
+#base "../../customizations/#spacer.res"
+
 "Resource/UI/HudAmmoWeapons.res"
 {
-	//==================================================================================================================================================
-	// AMMO ANCHOR
-	// This element can be used to move all the ammo elements at the same time
-	// By increasing the wide, the gap between clip and reserver will also increase
-	//==================================================================================================================================================
-
-	"AmmoAnchor"
-	{
-		"ControlName"								"EditablePanel"
-		"fieldName"									"AmmoAnchor"
-		"xpos"										"c104"
-		"ypos"										"c43"
-		"zpos"										"0"
-		"wide"										"5"
-		"tall"										"30"
-		"visible"									"0"
-		"enabled"									"1"
-	}
-
 	//==================================================================================================================================================
 	// AMMO IN CLIP
 	//==================================================================================================================================================
@@ -27,21 +10,19 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"AmmoInClip"
-		"xpos"										"-20"
-		"ypos"										"-28"
+		"xpos"										"0"
+		"ypos"										"0"
 		"zpos"										"5"
-		"wide"										"70"
-		"tall"										"30"
+		"wide"										"35"
+		"tall"										"20"
 		"visible"									"0"
 		"enabled"									"1"
 		"font"										"AMMO24"
-		"textAlignment"								"north"
+		"textAlignment"								"east"
 		"labelText"									"%Ammo%"
-		"fgcolor"									"255 255 255 255"
+		"fgcolor"									"AMMO"
 
 		"pin_to_sibling"							"AmmoAnchor"
-		"pin_corner_to_sibling"						"PIN_TOPRIGHT"
-		"pin_to_sibling_corner"						"PIN_TOPLEFT"
 	}
 
 	"AmmoInClipShadow"
@@ -51,14 +32,14 @@
 		"xpos"										"-1"
 		"ypos"										"-1"
 		"zpos"										"5"
-		"wide"										"70"
-		"tall"										"30"
+		"wide"										"35"
+		"tall"										"20"
 		"visible"									"0"
 		"enabled"									"1"
 		"font"										"AMMO24"
-		"textAlignment"								"north"
+		"textAlignment"								"east"
 		"labelText"									"%Ammo%"
-		"fgcolor"									"0 0 0 255"
+		"fgcolor"									"Black"     // TODO: Change with custom color
 
 		"pin_to_sibling"							"AmmoInClip"
 	}
@@ -71,21 +52,19 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"AmmoInReserve"
-		"xpos"										"0"
-		"ypos"										"-35"
+		"xpos"										"-35"
+		"ypos"										"0"
 		"zpos"										"7"
-		"wide"										"70"
-		"tall"										"30"
+		"wide"										"35"
+		"tall"										"20"
 		"visible"									"0"
 		"enabled"									"1"
 		"font"										"AMMO12"
-		"textAlignment"								"north-west"
+		"textAlignment"								"center"
 		"labelText"									"%AmmoInReserve%"
-		"fgcolor"									"255 255 255 255"
+		"fgcolor"									"AMMORES"
 
 		"pin_to_sibling"							"AmmoAnchor"
-		"pin_corner_to_sibling"						"PIN_TOPLEFT"
-		"pin_to_sibling_corner"						"PIN_TOPRIGHT"
 	}
 
 	"AmmoInReserveShadow"
@@ -93,16 +72,16 @@
 		"ControlName"								"CExLabel"
 		"fieldName"									"AmmoInReserveshadow"
 		"xpos"										"-1"
-		"ypos"										"0"
+		"ypos"										"-1"
 		"zpos"										"7"
-		"wide"										"70"
-		"tall"										"30"
+		"wide"										"35"
+		"tall"										"20"
 		"visible"									"0"
 		"enabled"									"1"
 		"font"										"AMMO12"
-		"textAlignment"								"north-west"
+		"textAlignment"								"center"
 		"labelText"									"%AmmoInReserve%"
-		"fgcolor"									"0 0 0 255"
+		"fgcolor"									"Black"     // TODO: Change with custom color
 
 		"pin_to_sibling"							"AmmoInReserve"
 	}
@@ -115,21 +94,19 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"AmmonoClip"
-		"xpos"										"-8"
-		"ypos"    									"-28"
+		"xpos"										"0"
+		"ypos"    									"0"
 		"zpos"										"5"
-		"wide"										"75"
-		"tall"										"80"
+		"wide"										"70"
+		"tall"										"20"
 		"visible"									"0"
 		"enabled"									"1"
 		"font"										"AMMO24"
-		"textAlignment"								"north"
+		"textAlignment"								"center"
 		"labelText"									"%Ammo%"
-		"fgcolor"									"255 255 255 255"
+		"fgcolor"									"AMMO"
 
 		"pin_to_sibling"							"AmmoAnchor"
-		"pin_corner_to_sibling"						"PIN_CENTER_TOP"
-		"pin_to_sibling_corner"						"PIN_CENTER_TOP"
 	}
 
 	"AmmoNoClipShadow"
@@ -139,14 +116,14 @@
 		"xpos"										"-1"
 		"ypos"										"-1"
 		"zpos"										"5"
-		"wide"										"75"
-		"tall"										"80"
+		"wide"										"70"
+		"tall"										"20"
 		"visible"									"0"
 		"enabled"									"1"
 		"font"										"AMMO24"
-		"textAlignment"								"north"
+		"textAlignment"								"center"
 		"labelText"									"%Ammo%"
-		"fgcolor"									"0 0 0 255"
+		"fgcolor"									"Black"     // TODO: Change with custom color
 
 		"pin_to_sibling"							"AmmoNoClip"
 	}

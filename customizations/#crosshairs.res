@@ -49,8 +49,34 @@
 
       // Visibility settings:
       // 0 = hidden, 1 = visible
+      "visible"           "0"
+      "enabled"           "1"
+    }
+
+    "CustomCrosshairImage"
+    {
+      "controlName"       "ImagePanel"
+      "fieldName"         "CustomCrosshairImage"
+      "xpos"              "c-16"
+      "ypos"              "c-16"
+      "zpos"              "1"
+      "wide"              "32"
+      "tall"              "32"
+      "scaleimage"        "1"
+
+      // Image settings:
+      // change this to your desired image
+      "image"             "replay/thumbnails/ql_2"
+
+      // Visibility settings:
+      // 0 = hidden, 1 = visible
       "visible"           "1"
       "enabled"           "1"
+
+      // Color settings:
+      // Yes, changing this does change the color of the image, but only white pixels.
+      // RGBA: 0-255 | 255 255 255 255 is full white
+      "drawcolor"         "40 200 110 255"
     }
   }
 

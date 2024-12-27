@@ -2,8 +2,8 @@
 
 "Resource/UI/HudItemEffectMeter_Scout.res"
 {
-	"HudItemEffectMeter"
+	"ItemEffectMeter"
 	{
-		"ypos"										"c85"
+		"ypos"										"-5"
 	}
 }

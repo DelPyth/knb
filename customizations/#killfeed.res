@@ -16,7 +16,7 @@
     "TeamRed"                 "207 73 50 255"
 
     "IconColor"               "255 255 255 255"
-    "LocalPlayerColor"        "HUDBlack"
+    "LocalPlayerColor"        "Black"
     "BaseBackgroundColor"     "0 0 0 150"
     "LocalBackgroundColor"    "235 235 235 200"
   }

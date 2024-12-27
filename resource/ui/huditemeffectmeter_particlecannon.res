@@ -2,8 +2,8 @@
 
 "Resource/UI/HudItemEffect_ParticleCannon.res"
 {
-	"HudItemEffectMeter"
+	"ItemEffectMeter"
 	{
-		"ypos"										"c85"
+		"ypos"										"-5"
 	}
 }
