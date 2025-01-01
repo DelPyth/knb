@@ -14,8 +14,8 @@
   {
     "ControlName"           "CTFImagePanel"
     "fieldName"             "TeamIndicator"
-    "xpos"                  "22"
-    "ypos"                  "-32"
+    "xpos"                  "0"
+    "ypos"                  "0"
     "zpos"                  "-1"
     "wide"                  "2"
     "tall"                  "18"
@@ -27,6 +27,8 @@
     "teambg_2"              "../hud/color_panel_red"
     "teambg_3"              "../hud/color_panel_blu"
     "pin_to_sibling"        "HealthAnchor"
+    "pin_corner_to_sibling" "PIN_TOPRIGHT"
+    "pin_to_sibling_corner" "PIN_TOPRIGHT"
 
     "src_corner_height"     "23"
     "src_corner_width"      "23"

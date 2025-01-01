@@ -8,6 +8,7 @@ Scheme
 			{
 				"name"		"Futura Std Medium"
 				"tall"		"26"
+				"weight"   "900"
 				"additive"	"0"
 				"antialias" 	"1"
 				"outline"	"0"
@@ -19,6 +20,7 @@ Scheme
 			{
 				"name"		"Futura Std Medium"
 				"tall"		"26"
+				"weight"   "900"
 				"additive"	"0"
 				"antialias" 	"1"
 				"outline"	"0"
@@ -30,20 +32,10 @@ Scheme
 			{
 				"name"		"Futura Std Medium"
 				"tall"		"12"
+				"weight"   "900"
 				"additive"	"0"
 				"antialias" 	"1"
 				"outline"	"0"
-			}
-		}
-		DMG
-		{
-			"1"
-			{
-				"name"		"Novecento WideBold"
-				"tall"		"18"
-				"additive"	"0"
-				"antialias" 	"1"
-				"outline"	"1"
 			}
 		}
 
@@ -51,8 +43,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Novecento WideMedium"
+				"name"		"Futura Std Medium"
 				"tall"		"8"
+				"weight"   "900"
 				"additive"	"0"
 				"antialias" 	"1"
 				"outline"	"0"
@@ -62,8 +55,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Novecento WideMedium"
+				"name"		"Futura Std Medium"
 				"tall"		"9"
+				"weight"   "900"
 				"additive"	"0"
 				"antialias" 	"1"
 				"outline"	"0"
@@ -73,8 +67,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Novecento WideMedium"
+				"name"		"Futura Std Medium"
 				"tall"		"10"
+				"weight"   "900"
 				"additive"	"0"
 				"antialias" 	"1"
 				"outline"	"0"
@@ -84,8 +79,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Novecento WideMedium"
+				"name"		"Futura Std Medium"
 				"tall"		"11"
+				"weight"   "900"
 				"additive"	"0"
 				"antialias" 	"1"
 				"outline"	"0"
@@ -95,8 +91,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Novecento WideMedium"
+				"name"		"Futura Std Medium"
 				"tall"		"12"
+				"weight"   "900"
 				"additive"	"0"
 				"antialias" 	"1"
 				"outline"	"0"
@@ -106,8 +103,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Novecento WideMedium"
+				"name"		"Futura Std Medium"
 				"tall"		"13"
+				"weight"   "900"
 				"additive"	"0"
 				"antialias" 	"1"
 				"outline"	"0"
@@ -117,8 +115,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Novecento WideMedium"
+				"name"		"Futura Std Medium"
 				"tall"		"14"
+				"weight"   "900"
 				"additive"	"0"
 				"antialias" 	"1"
 				"outline"	"0"
@@ -128,8 +127,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Novecento WideBold"
+				"name"		"Futura Std Medium"
 				"tall"		"13"
+				"weight"   "800"
 				"additive"	"0"
 				"antialias" 	"1"
 				"outline"	"0"
@@ -139,8 +139,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Novecento WideBold"
+				"name"		"Futura Std Medium"
 				"tall"		"12"
+				"weight"   "800"
 				"additive"	"0"
 				"antialias" 	"1"
 				"outline"	"0"
@@ -150,8 +151,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Novecento WideBold"
+				"name"		"Futura Std Medium"
 				"tall"		"11"
+				"weight"   "800"
 				"additive"	"0"
 				"antialias" 	"1"
 				"outline"	"0"
@@ -161,8 +163,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Novecento WideMedium"
+				"name"		"Futura Std Medium"
 				"tall"		"15"
+				"weight"   "900"
 				"additive"	"0"
 				"antialias" 	"1"
 				"outline"	"0"
@@ -172,8 +175,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Novecento WideMedium"
+				"name"		"Futura Std Medium"
 				"tall"		"16"
+				"weight"   "900"
 				"additive"	"0"
 				"antialias" 	"1"
 				"outline"	"0"
@@ -183,8 +187,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Novecento WideMedium"
+				"name"		"Futura Std Medium"
 				"tall"		"18"
+				"weight"   "900"
 				"additive"	"0"
 				"antialias" 	"1"
 				"outline"	"0"
@@ -194,8 +199,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Novecento WideMedium"
+				"name"		"Futura Std Medium"
 				"tall"		"20"
+				"weight"   "900"
 				"additive"	"0"
 				"antialias" 	"1"
 				"outline"	"0"
@@ -205,8 +211,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Novecento WideMedium"
+				"name"		"Futura Std Medium"
 				"tall"		"24"
+				"weight"   "900"
 				"additive"	"0"
 				"antialias" 	"1"
 				"outline"	"0"
@@ -216,8 +223,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Novecento WideMedium"
+				"name"		"Futura Std Medium"
 				"tall"		"28"
+				"weight"   "900"
 				"additive"	"0"
 				"antialias" 	"1"
 				"outline"	"0"
@@ -227,8 +235,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Novecento WideMedium"
+				"name"		"Futura Std Medium"
 				"tall"		"32"
+				"weight"   "900"
 				"additive"	"0"
 				"antialias" 	"1"
 				"outline"	"0"
@@ -238,8 +247,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Novecento WideBold"
+				"name"		"Futura Std Medium"
 				"tall"		"17"
+				"weight"   "800"
 				"additive"	"0"
 				"antialias" 	"1"
 				"outline"	"0"
@@ -249,8 +259,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Novecento WideBold"
+				"name"		"Futura Std Medium"
 				"tall"		"18"
+				"weight"   "800"
 				"additive"	"0"
 				"antialias" 	"1"
 				"outline"	"0"
@@ -260,13 +271,25 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Novecento WideBold"
+				"name"		"Futura Std Medium"
 				"tall"		"20"
+				"weight"   "800"
 				"additive"	"0"
 				"antialias" 	"1"
 				"outline"	"0"
 			}
 		}
+		"Symbol_12"
+		{
+			"1"
+			{
+				"name"      "Entypo"
+				"tall"      "12"
+				"additive"  "0"
+				"antialias" "1"
+			}
+		}
+
 		"Blank"
 		{
 			"1"
@@ -293,44 +316,44 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Novecento WideMedium"
+				"name"		"Futura Std Medium"
 				"tall"		"14"
-				"weight"	"0"
+				"weight"   "900"
 				"antialias"	"1"
 			}
 			"2"
 			{
-				"name"		"Novecento WideMedium"
+				"name"		"Futura Std Medium"
 				"tall"		"15"
-				"weight"	"0"
+				"weight"   "900"
 				"antialias"	"1"
 			}
 			"3"
 			{
-				"name"		"Novecento WideMedium"
+				"name"		"Futura Std Medium"
 				"tall"		"16"
-				"weight"	"0"
+				"weight"   "900"
 				"antialias"	"1"
 			}
 			"4"
 			{
-				"name"		"Novecento WideMedium"
+				"name"		"Futura Std Medium"
 				"tall"		"22"
-				"weight"	"0"
+				"weight"   "900"
 				"antialias"	"1"
 			}
 			"5"
 			{
-				"name"		"Novecento WideMedium"
+				"name"		"Futura Std Medium"
 				"tall"		"26"
-				"weight"	"0"
+				"weight"   "900"
 				"antialias"	"1"
 			}
 			"6"
 			{
-				"name"		"Novecento WideMedium"
+				"name"		"Futura Std Medium"
 				"tall"		"14"
-				"weight"	"0"
+				"weight"   "900"
 				"antialias"	"1"
 			}
 		}
@@ -340,25 +363,20 @@ Scheme
 	{
 		"9"
 		{
-			"font" "resource/fonts/Novecentowide-Medium.ttf"
-			"name" "Novecento WideMedium"
+			"font" "resource/fonts/Entypo.otf"
+			"name" "Entypo"
 		}
 		"10"
-		{
-			"font" "resource/fonts/Novecentowide-Bold.ttf"
-			"name" "Novecento WideBold"
-		}
-		"11"
 		{
 			"font" "resource/fonts/Blank.ttf"
 			"name" "Blank"
 		}
-		"12"
+		"11"
 		{
 			"font" "resource/fonts/Blocks.ttf"
 			"name" "Blocks"
 		}
-		"13"
+		"12"
 		{
 			"font" "resource/fonts/futura-std-medium.otf"
 			"name" "Futura Std Medium"
