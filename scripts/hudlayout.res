@@ -1,10 +1,10 @@
-"#base"     "../customizations/#crosshairs.res"
+#base     "../customizations/#crosshairs.res"
 
-"#base"     "../customizations/#killfeed.res"
+#base     "../customizations/#killfeed.res"
 
-"#base"     "../customizations/#enabled/transparent_viewmodels.res"
+#base     "../customizations/#enabled/transparent_viewmodels.res"
 
-"#base"     "../dev-stuff/hud_alignment.res"
+#base     "../dev-stuff/hud_alignment.res"
 
 "Resource/HudLayout.res"
 {

@@ -16,7 +16,6 @@
 		"fillcolor"		"0 0 0 0"
 		"PaintBackgroundType""0"
 	}
-	
 	"TargetNameLabel"
 	{	
 		"ControlName"		"Label"
@@ -38,28 +37,6 @@
 		"fgcolor_override" "255 255 255 255"
 	}
 
-	"TargetNameLabel2"
-	{	
-		"ControlName"		"Label"
-		"fieldName"		"TargetNameLabel2"
-		"font"			"surface10"
-		"xpos"			"-1"
-		"ypos"			"-1"
-		"zpos"			"1"
-		"wide"			"640"
-		"tall"			"14"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"labelText"		"%targetname%"
-		"textAlignment"		"West"
-		"dulltext"		"0"
-		"brighttext"		"0"
-		"fgcolor_override" "0 0 0 150"
-		"pin_to_sibling"	"TargetNameLabel"
-	}
-	
 	"TargetDataLabel"
 	{	
 		"ControlName"		"Label"
@@ -85,9 +62,9 @@
 	{
 		"ControlName"		"EditablePanel"
 		"fieldName"			"SpectatorGUIHealth"
-		"xpos"				"14"
+		"xpos"				"10"
 		"ypos"				"2"
-		"wide"				"62"
+		"wide"				"45"
 		"tall"				"132"
 		"visible"			"1"
 		"enabled"			"1"	

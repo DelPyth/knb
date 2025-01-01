@@ -14,3 +14,9 @@ Thumbs.db
 
 # Ignore all other files that are not needed
 *.py
+
+# Ignore backup files
+*.bak
+*.backup
+*.save
+*.old
