@@ -1,9 +1,6 @@
 #base     "../customizations/#crosshairs.res"
-
 #base     "../customizations/#killfeed.res"
-
 #base     "../customizations/#enabled/transparent_viewmodels.res"
-
 #base     "../dev-stuff/hud_alignment.res"
 
 "Resource/HudLayout.res"
@@ -22,7 +19,7 @@
     "LineHeight"              "11"
     "LineSpacing"             "0"
     "CornerRadius"            "1"
-    "RightJustify"            "1"	// If 1, draw notices from the right
+    "RightJustify"            "1"
     "TextFont"                "surface10"
     "TeamBlue"                "78 119 182 255"
     "TeamRed"                 "207 73 50 255"
@@ -85,15 +82,17 @@
   }
   "HudItemEffectMeter"
   {
-    "fieldName"     "HudItemEffectMeter"
-    "visible"       "1"
-    "enabled"       "1"
-    "xpos"          "c-37"
-    "ypos"          "r52"
-    "wide"          "100"
-    "tall"          "50"
-    "MeterFG"       "White"
-    "MeterBG"       "Gray"
+    "fieldName"       "HudItemEffectMeter"
+    "visible"         "1"
+    "enabled"         "1"
+    "xpos"            "r162"
+    "xpos_minmode"    "r52"
+    "ypos"            "r52"
+    "ypos_minmode"    "r50"
+    "wide"            "100"
+    "tall"            "50"
+    "MeterFG"         "White"
+    "MeterBG"         "Gray"
   }
   "HudMedicCharge"
   {
@@ -125,7 +124,7 @@
     "enabled"       "1"
     "xpos"          "c-37"
     "ypos"          "r120"
-    "zpos"          "1"	// draw in front of ammo
+    "zpos"          "1"
     "wide"          "100"
     "tall"          "50"
     "MeterFG"       "White"
@@ -138,7 +137,7 @@
     "enabled"       "1"
     "xpos"          "c-100"
     "ypos"          "42"
-    "zpos"          "0"	// draw in front of ammo
+    "zpos"          "0"
     "wide"          "200"
     "tall"          "50"
     "MeterFG"       "Red"
@@ -376,7 +375,7 @@
     "bar_width"                   "320"
     "speaker_xpos"                "50"
     "speaker_ypos"                "8"
-    "count_xpos_from_right"       "10"	// Counts from the right side
+    "count_xpos_from_right"       "10"
     "count_ypos"                  "8"
     "icon_texture"                "vgui/hud/icon_commentary"
     "icon_xpos"                   "0"
@@ -475,8 +474,8 @@
     "tall"                "136"
     "BgAlpha"             "128"
     "GrowTime"            "0.25"
-    "ItemHiddenTime"      "0.2"	// Nearly same as grow time so that the item doesn't start to show until growth is finished
-    "ItemFadeInTime"      "0.15"	// Once ItemHiddenTime is finished, takes this much longer to fade in
+    "ItemHiddenTime"      "0.2"
+    "ItemFadeInTime"      "0.15"
     "ItemFadeOutTime"     "0.3"
     "topoffset"           "0"
   }
@@ -562,6 +561,7 @@
     "fieldName"     "HudScope"
     "visible"       "1"
     "enabled"       "1"
+    "xpos"          "100"
     "wide"          "640"
     "tall"          "480"
   }
@@ -620,8 +620,8 @@
     "HintSize"      "1"
     "text_xpos"     "8"
     "text_ypos"     "8"
-    "center_x"      "0"	// center text horizontally
-    "center_y"      "-1"	// align text on the bottom
+    "center_x"      "0"
+    "center_y"      "-1"
   }
   "HudHintKeyDisplay"
   {
@@ -666,9 +666,9 @@
     "tall"                "200"
     "visible"             "1"
     "enabled"             "1"
-    "separator_width"     "5"	// distance between the icons (including their backgrounds)
+    "separator_width"     "5"
     "separator_height"    "5"
-    "height_offset"       "0"	// distance from the bottom of the panel
+    "height_offset"       "0"
   }
   "HudCapturePanel"
   {
@@ -826,24 +826,29 @@
   }
   "HudDemomanPipes"
   {
-    "fieldName"     "HudDemomanPipes"
-    "visible"       "1"
-    "enabled"       "1"
-    "xpos"          "0"
-    "ypos"          "0"
-    "wide"          "f0"
-    "tall"          "f0"
+    "fieldName"       "HudDemomanPipes"
+    "xpos"            "0"
+    "ypos"            "0"
+    "wide"            "f0"
+    "tall"            "f0"
+    "visible"         "1"
+    "enabled"         "1"
   }
   "HudDemomanCharge"
   {
-    "fieldName"     "HudDemomanCharge"
-    "visible"       "1"
-    "enabled"       "1"
-    "xpos"          "0"
-    "ypos"          "0"
-    "zpos"          "2"
-    "wide"          "f0"
-    "tall"          "f0"
+    "xpos"            "0"
+    "xpos_minmode"    "0"
+    "ypos"            "0"
+    "ypos_minmode"    "0"
+    "zpos"            "2"
+    "wide"            "f0"
+    "wide_minmode"    "f0"
+    "tall"            "f0"
+    "fieldName"       "HudDemomanCharge"
+    "visible"         "1"
+    "enabled"         "1"
+    "MeterFG"         "White"
+    "MeterBG"         "Gray"
   }
   "HudTeamGoal"
   {
@@ -1115,7 +1120,7 @@
     "visible"                 "1"
     "enabled"                 "1"
     "bgcolor_override"        "0 0 0 0"
-    "PaintBackgroundType"     "0"	// rounded corners
+    "PaintBackgroundType"     "0"
   }
   "HudAlert"
   {
@@ -1147,7 +1152,7 @@
     "xpos"          "c-150"
     "ypos"          "220"
     "zpos"          "20"
-    "wide"          "0"	// 300
+    "wide"          "0"
     "tall"          "215"
   }
   "HudUpgradePanel"
@@ -1184,7 +1189,7 @@
     "visible"                 "1"
     "enabled"                 "1"
     "bgcolor_override"        "0 0 0 0"
-    "PaintBackgroundType"     "0"	// rounded corners
+    "PaintBackgroundType"     "0"
   }
   "CTFFlagCalloutPanel"
   {

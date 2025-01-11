@@ -1,9 +1,5 @@
-#base "huditemeffectmeter.res"
+// ITEM METER POSITIONING SLOT
+#base "huditemeffectmeter_#bottom.res"
 
-"Resource/UI/HudItemEffectMeter_Pomson.res"
-{
-	"ItemEffectMeter"
-	{
-		"ypos"										"0"
-	}
-}
+// BASE CONTENT, USE THIS TO MAKE YOUR EDITS!!
+#base "huditemeffectmeter_base.res"

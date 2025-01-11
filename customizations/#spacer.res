@@ -9,14 +9,14 @@
   {
     "ControlName"         "EditablePanel"
     "fieldName"           "TheSpacer"
-    "xpos"                "c-150"
-    "ypos"                "c73"
-    "ypos_minmode"        "r100"
+    "xpos"                "cs-0.5"     // Display in the center of the screen
+    "ypos"                "c100"       // Display a little below the center of the screen
+    "ypos_minmode"        "r100"       // Display a little a little above the bottom of the screen >>in minmode<<
     "zpos"                "0"
-    "wide"                "300"
-    "tall"                "20"
+    "wide"                "300"        // This determines how far apart the health and ammo elements are
+    "tall"                "20"         // Best not to change this
     "visible"             "0"
-    "enabled"             "1"
+    "enabled"             "0"
   }
 
   // ==================================================================================================================================================

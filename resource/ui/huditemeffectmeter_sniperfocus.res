@@ -1,9 +1,5 @@
-#base "huditemeffectmeter.res"
+// ITEM METER POSITIONING SLOT
+#base "huditemeffectmeter_#top.res"
 
-"Resource/UI/HudItemEffectMeter_SniperFocus.res"
-{
-	"ItemEffectMeter"
-	{
-		"ypos"										"-5"
-	}
-}
+// BASE CONTENT, USE THIS TO MAKE YOUR EDITS!!
+#base "huditemeffectmeter_base.res"

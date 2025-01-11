@@ -1,9 +1,5 @@
-#base "huditemeffectmeter.res"
+// ITEM METER POSITIONING SLOT
+#base "huditemeffectmeter_#top.res"
 
-"Resource/UI/HudItemEffectMeter_Pyro.res"
-{
-	"ItemEffectMeter"
-	{
-		"ypos"										"0"
-	}
-}
+// BASE CONTENT, USE THIS TO MAKE YOUR EDITS!!
+#base "huditemeffectmeter_base.res"

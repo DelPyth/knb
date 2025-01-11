@@ -11,7 +11,7 @@
     "HP low 1"          "255 60 60 255"         // Red
     "HP low 2"          "200 30 30 255"         // Dark-ish red
     "AMMO"              "255 255 255 255"       // White
-    "AMMORES"           "190 190 190 255"       // Light grey
+    "AMMORES"           "150 150 150 255"       // Light grey
     "AMMO low 1"        "255 60 60 255"         // Red
     "AMMO low 2"        "200 30 30 255"         // Dark-ish red
     "UBER"              "255 255 255 255"       // White

@@ -1,3 +1,5 @@
+#base   "../../customizations/#spacer.res"
+
 "Resource/UI/HudMedicCharge.res"
 {
 	//==================================================================================================================================================
@@ -31,14 +33,13 @@
 	{
 		"ControlName"								"EditablePanel"
 		"fieldName"									"UberAnchor"
-		"xpos"										"c155"
-		"ypos"										"c43"
+    "xpos"                   "c90"
+    "ypos"                   "c100"
 		"zpos"										"0"
-		"wide"										"2"
-		"tall"										"80"
+		"wide"										"70"
+		"tall"										"20"
 		"visible"									"0"
 		"enabled"									"1"
-		"alpha"										"0"
 	}
 
 	//==================================================================================================================================================
@@ -49,19 +50,19 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"ChargeLabelTiny"
-		"xpos"										"-5"
+		"xpos"										"0"
 		"ypos"										"0"
 		"zpos"										"2"
-		"wide"										"75"
-		"tall"										"81"
+		"wide"										"70"
+		"tall"										"20"
 		"visible"									"1"
 		"enabled"									"1"
 		"proportionaltoparent"						"1"
 		"labelText"									"#TF_UberchargeMinHUD"
 		"textAlignment"								"center"
-		"font"										"hp24"
+		"font"										"AMMO24"
 		"fgcolor"   								"White"
-		
+
 		"pin_to_sibling"							"UberAnchor"
 		"pin_corner_to_sibling"						"PIN_CENTER_TOP"
 		"pin_to_sibling_corner"						"PIN_CENTER_TOP"
@@ -71,18 +72,18 @@
 		"ControlName"								"CExLabel"
 		"fieldName"									"ChargeLabelTinyS"
 		"xpos"										"-1"
-		"ypos"										"0"
+		"ypos"										"-1"
 		"zpos"										"2"
-		"wide"										"75"
-		"tall"										"83"
+		"wide"										"70"
+		"tall"										"20"
 		"visible"									"1"
 		"enabled"									"1"
 		"proportionaltoparent"						"1"
 		"labelText"									"#TF_UberchargeMinHUD"
 		"textAlignment"								"center"
-		"font"										"hp24"
+		"font"										"AMMO24"
 		"fgcolor"  									"0 0 0 255"
-		
+
 		"pin_to_sibling"							"ChargeLabelTiny"
 	}
 
@@ -96,14 +97,13 @@
 		"fieldName"									"ChargeMeter"
 		"font"										"Default"
 		"xpos"										"cs-0.5"
-		"ypos"										"c80"
+		"ypos"										"c110"
 		"zpos"										"2"
-		"wide"										"96"
+		"wide"										"150"
 		"tall"										"2"
 		"visible"									"1"
 		"enabled"									"1"
 		"proportionaltoparent"						"1"
-		"textAlignment"								"Left"
 		"fgcolor_override"							"255 255 255 255"
 		"bgcolor_override"							"0 0 0 50"
 	}
@@ -144,7 +144,6 @@
 		"tall"										"2"
 		"visible"									"1"
 		"enabled"									"1"
-		"textAlignment"								"Left"
 		"fgcolor_override"							"255 255 255 255"
 		"bgcolor_override"							"0 0 0 100"
 	}
@@ -160,7 +159,6 @@
 		"tall"										"2"
 		"visible"									"1"
 		"enabled"									"1"
-		"textAlignment"								"Left"
 		"fgcolor_override"							"255 255 255 255"
 		"bgcolor_override"							"0 0 0 100"
 
@@ -181,7 +179,6 @@
 		"tall"										"2"
 		"visible"									"1"
 		"enabled"									"1"
-		"textAlignment"								"Left"
 		"fgcolor_override"							"255 255 255 255"
 		"bgcolor_override"							"0 0 0 100"
 
@@ -201,7 +198,6 @@
 		"tall"										"2"
 		"visible"									"1"
 		"enabled"									"1"
-		"textAlignment"								"Left"
 		"fgcolor_override"							"255 255 255 255"
 		"bgcolor_override"							"0 0 0 100"
 

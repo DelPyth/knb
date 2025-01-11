@@ -1,102 +1,122 @@
 "Resource/UI/HudSpellSelection.res"
-{		
-	"ItemEffectMeterBG"
+{
+	"HudSpellMenu"
 	{
-		"ControlName"	"CTFImagePanel"
-		"fieldName"		"ItemEffectMeterBG"
-		"xpos"			"99999"
-		"ypos"			"441"
-		"zpos"			"10"
-		"wide"			"30"
-		"tall"			"30"
-		"visible"		"1"
-		"enabled"		"1"
-		"image"			"../hud/color_panel_brown"
-		"scaleImage"		"0"
-		"teambg_1"		"../hud/color_panel_brown"
-		"teambg_2"		"../hud/color_panel_red"
-		"teambg_3"		"../hud/color_panel_blu"	
-		
-		"src_corner_height"		"50"				// pixels inside the image
-		"src_corner_width"		"50"
-			
-		"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
-		"draw_corner_height" 	"0"	
-	}		
-	
-	"Spellbook"
-	{
-		"ControlName"	"CTFImagePanel"
-		"fieldName"		"Spellbook"
-		"xpos"			"99999"
-		"ypos"			"0"
-		"zpos"			"0"
-		"wide"			"0"
-		"tall"			"0"
-		"visible"		"0"
-		"enabled"		"0"
-		"image"			"spellbook_book"
-		"scaleImage"	"1"		
+		"xpos"										"c-190"
+		"xpos_minmode"								"c-106"
+		"ypos"										"rs1-4"
+		"ypos_minmode"								"c100"
+		"wide"										"35"
+		"wide_minmode"								"30"
+		"tall"										"30"
 	}
-	
 	"SpellIcon"
 	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"SpellIcon"
-		"xpos"			"0"
-		"ypos"			"0"
-		"zpos"			"13"
-		"wide"			"26"
-		"tall"			"26"
-		"visible"		"1"
-		"enabled"		"1"
-		"scaleImage"	"1"	
-		"image"			"../signs/death_wheel_whammy"
-		"fgcolor_override"		"255 255 255 255"
+		"ControlName"								"ImagePanel"
+		"fieldName"									"SpellIcon"
+		"xpos"										"0"
+		"ypos"										"4"
+		"zpos"										"7"
+		"wide"										"16"
+		"wide_minmode"								"12"
+		"tall"										"16"
+		"tall_minmode"								"12"
+		"visible"									"1"
+		"enabled"									"1"
+		"scaleImage"								"1"
+		"proportionaltoparent"						"1"
+		"image"										"../signs/death_wheel_whammy"
+		"fgcolor"									"White"
 	}
-	
-	"ActionText"
-	{
-		"ControlName"	"CExLabel"
-		"fieldName"		"ActionText"
-		"font"			"Book9"
-		"labelText"		"%actiontext%"
-		"textAlignment" "west"
-		"xpos"			"0"
-		"ypos"			"0"
-		"wide"			"0"
-		"tall"			"0"
-		"fgcolor"		"0 0 0 0"
-		"visible"		"0"
-	}
-	
-	"SpellText"
-	{
-		"ControlName"	"CExLabel"
-		"fieldName"		"SpellText"
-		"font"			"Book9"
-		"labelText"		"%selectedspell%"
-		"textAlignment" "west"
-		"xpos"			"99999"
-		"ypos"			"r14"
-		"wide"			"150"
-		"tall"			"13"
-		"fgcolor"		"255 255 255 255"
-		"visible"		"0"
-	}
-	
 	"CountText"
 	{
-		"ControlName"	"CExLabel"
-		"fieldName"		"CountText"
-		"font"			"surface20"
-		"labelText"		"%counttext%"
-		"textAlignment" "west"
-		"xpos"			"33"
-		"ypos"			"2"
-		"zpos"			"3"
-		"wide"			"80"
-		"tall"			"29"
-		"fgcolor"		"255 255 255 255"
+		"ControlName"								"CExLabel"
+		"fieldName"									"CountText"
+		"xpos"										"rs1"
+		"ypos"										"0"
+		"zpos"										"1"
+		"wide"										"20"
+		"tall"										"20"
+		"tall_minmode"								"18"
+		"proportionaltoparent"						"1"
+		"font"										"m0refont24"
+		"font_minmode"								"m0refont18"
+		"labelText"									"%counttext%"
+		"textAlignment"								"center"
+		"fgcolor"									"White"
+	}
+	"CountTextShadow"
+	{
+		"ControlName"								"CExLabel"
+		"fieldName"									"CountTextShadow"
+		"xpos"										"-1"
+		"ypos"										"-1"
+		"wide"										"20"
+		"tall"										"20"
+		"tall_minmode"								"18"
+		"proportionaltoparent"						"1"
+		"font"										"m0refont24"
+		"font_minmode"								"m0refont18"
+		"labelText"									"%counttext%"
+		"textAlignment"								"center"
+		"fgcolor"									"Black"
+
+		"pin_to_sibling"							"CountText"
+	}
+	"ActionText"
+	{
+		"ControlName"								"CExLabel"
+		"fieldName"									"ActionText"
+		"xpos"										"cs-0.5"
+		"ypos"										"rs1"
+		"wide"										"f0"
+		"tall"										"8"
+		"proportionaltoparent"						"1"
+		"visible"									"1"
+		"visible_minmode"							"0"
+		"font"										"DefaultVerySmall"
+		"labelText"									"%actiontext%"
+		"textAlignment"								"center"
+		"fgcolor"									"White"
+	}
+
+
+
+	//==================================================================================================================================================
+	// REMOVED ELEMENTS
+	//==================================================================================================================================================
+
+	"ItemEffectMeterBG"
+	{
+		"ControlName"								"CTFImagePanel"
+		"fieldName"									"ItemEffectMeterBG"
+		"xpos"										"9999"
+		"ypos"										"9999"
+		"wide"										"0"
+		"tall"										"0"
+		"visible"									"0"
+		"enabled"									"0"
+	}
+	"Spellbook"
+	{
+		"ControlName"								"CTFImagePanel"
+		"fieldName"									"Spellbook"
+		"xpos"										"9999"
+		"ypos"										"9999"
+		"wide"										"0"
+		"tall"										"0"
+		"visible"									"0"
+		"enabled"									"0"
+	}
+	"SpellText"
+	{
+		"ControlName"								"CExLabel"
+		"fieldName"									"SpellText"
+		"xpos"										"9999"
+		"ypos"										"9999"
+		"wide"										"0"
+		"tall"										"0"
+		"visible"									"0"
+		"enabled"									"0"
 	}
 }
